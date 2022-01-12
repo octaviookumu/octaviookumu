@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @octaviookumu
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me: octaviookumu@gmail.com
 
