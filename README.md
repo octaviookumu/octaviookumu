@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @octaviookumu
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Backend development 
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me: octaviookumu@gmail.com
