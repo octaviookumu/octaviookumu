@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @octaviookumu
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Backend development 
+- 👀 I’m interested in Web Development
+- 🌱 The Cloud as well
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: octaviookumu@gmail.com
